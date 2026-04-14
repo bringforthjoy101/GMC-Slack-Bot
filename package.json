@@ -1,0 +1,12 @@
+{
+  "name": "gmc-slack-bot",
+  "version": "1.0.0",
+  "description": "Slack bot for GMC Software Engineering Master's Program",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "@slack/bolt": "^3.17.0"
+  }
+}
